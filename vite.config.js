@@ -5,5 +5,5 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(),tailwindcss()],
-  base: "/flyup/", // เช่น /flyup/
+  base: "/flyUp/", // เช่น /flyup/
 })
